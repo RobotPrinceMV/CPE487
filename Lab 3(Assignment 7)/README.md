@@ -1,1 +1,1 @@
-# Lab 3: Bouncing Ball
+# Lab 3: vgaball
